@@ -142,7 +142,7 @@ const BookingDetails = ({ booking }) => {
                                         <Typography variant="caption" color="text.secondary" display="block">
                                           Departure
                                         </Typography>
-                                        <Typography variant="body2" fontWeight={500}>
+                                        <Typography variant="body2" component="div" fontWeight={500}>
                                           {formatDate(segment.departure?.at)}
                                           {segment.departure?.terminal && (
                                             <Chip 
@@ -160,7 +160,7 @@ const BookingDetails = ({ booking }) => {
                                         <Typography variant="caption" color="text.secondary" display="block">
                                           Arrival
                                         </Typography>
-                                        <Typography variant="body2" fontWeight={500}>
+                                        <Typography variant="body2" component="div" fontWeight={500}>
                                           {formatDate(segment.arrival?.at)}
                                           {segment.arrival?.terminal && (
                                             <Chip 
