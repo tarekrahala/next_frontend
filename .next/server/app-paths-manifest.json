@@ -1,0 +1,8 @@
+{
+  "/api/auth/logout/route": "app/api/auth/logout/route.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/(DashboardLayout)/users/page": "app/(DashboardLayout)/users/page.js",
+  "/(DashboardLayout)/tenants/create-tenant/page": "app/(DashboardLayout)/tenants/create-tenant/page.js",
+  "/(DashboardLayout)/page": "app/(DashboardLayout)/page.js",
+  "/(DashboardLayout)/users/[id]/page": "app/(DashboardLayout)/users/[id]/page.js"
+}
