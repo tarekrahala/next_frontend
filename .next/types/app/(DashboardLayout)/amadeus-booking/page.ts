@@ -1,4 +1,4 @@
-// File: D:\nodefront\next_frontend\src\app\(DashboardLayout)\amadeus-booking\page.jsx
+// File: D:\Next with hero\next_frontend\src\app\(DashboardLayout)\amadeus-booking\page.jsx
 import * as entry from '../../../../../src/app/(DashboardLayout)/amadeus-booking/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
