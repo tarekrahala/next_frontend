@@ -1,4 +1,4 @@
-// File: D:\Next with hero\starterkit\src\app\(DashboardLayout)\layout.jsx
+// File: D:\nodefront\next_frontend\src\app\(DashboardLayout)\layout.jsx
 import * as entry from '../../../../src/app/(DashboardLayout)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

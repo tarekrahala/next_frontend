@@ -11,10 +11,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/loading.js"
     ],
-    "/auth/login/page": [
+    "/not-found": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/auth/login/page.js"
+      "static/chunks/app/not-found.js"
     ],
     "/(DashboardLayout)/layout": [
       "static/chunks/webpack.js",
@@ -32,60 +32,10 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(DashboardLayout)/page.js"
     ],
-    "/api/auth/logout/route": [
+    "/(DashboardLayout)/amadeus-booking/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/api/auth/logout/route.js"
-    ],
-    "/not-found": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/not-found.js"
-    ],
-    "/_not-found/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
-    ],
-    "/(DashboardLayout)/tenants/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/tenants/page.js"
-    ],
-    "/(DashboardLayout)/tenants/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/tenants/[id]/page.js"
-    ],
-    "/(DashboardLayout)/tenants/create-tenant/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/tenants/create-tenant/page.js"
-    ],
-    "/(DashboardLayout)/tenants/update/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/tenants/update/[id]/page.js"
-    ],
-    "/(DashboardLayout)/users/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/users/page.js"
-    ],
-    "/(DashboardLayout)/users/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/users/[id]/page.js"
-    ],
-    "/(DashboardLayout)/users/update/[id]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/users/update/[id]/page.js"
-    ],
-    "/(DashboardLayout)/users/create-user/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/users/create-user/page.js"
+      "static/chunks/app/(DashboardLayout)/amadeus-booking/page.js"
     ]
   }
 }

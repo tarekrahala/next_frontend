@@ -29,7 +29,7 @@ eval("/* __next_internal_client_entry_do_not_use__  cjs */ \nvar D = Object.crea
 
 const { createProxy } = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js")
 
-module.exports = createProxy("D:\\Next with hero\\starterkit\\node_modules\\nextjs-toploader\\dist\\index.js")
+module.exports = createProxy("D:\\nodefront\\next_frontend\\node_modules\\nextjs-toploader\\dist\\index.js")
 
 
 /***/ })

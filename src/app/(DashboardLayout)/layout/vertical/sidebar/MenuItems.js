@@ -38,6 +38,13 @@ const Menuitems = [
     icon: IconClipboardCheck,
     href: '/booking',
   },
+  {
+    id: uniqueId(),
+    title: 'Fare Optimizer',
+    icon: IconPlane,
+    chip: 'New',
+    href: '/amadeus-booking',
+  },
 
   {
     navlabel: true,

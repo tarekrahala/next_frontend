@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+- Always use javascript coding, Don't use any other language or typescript.
+- always revise theme structure for routing, etc. whenever we create new module or page.
+- always use protected routes.
+- do not break old methods or refactor the code or delete feature whenever adding a new function or module or feature
+- whenever adding a new page add its link to side bard for navigation
+- always use Material-UI components.
