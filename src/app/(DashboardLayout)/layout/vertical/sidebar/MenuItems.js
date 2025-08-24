@@ -36,7 +36,21 @@ const Menuitems = [
     id: uniqueId(),
     title: 'Bookings ',
     icon: IconClipboardCheck,
-    href: '/booking',
+    href: '/' ,
+    children: [
+      {
+        id: uniqueId(),
+        title: 'Hotels',
+        icon: IconClipboardCheck,
+        href: '/bookings/hotels',
+      },
+      {
+        id: uniqueId(),
+        title: 'Reservations sheet',
+        icon: IconClipboardCheck,
+        href: '/offline-bookings',
+      },
+    ],
   },
   {
     id: uniqueId(),
@@ -70,12 +84,7 @@ const Menuitems = [
        
       },
 
-      {
-        id: uniqueId(),
-        title: 'Reservations sheet',
-        icon: IconFileText,
-        href: '/offline-bookings',
-      },
+ 
       
     ],
   },

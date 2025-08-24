@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" suppressHydrationWarning>
       <body>
-        <NextTopLoader color="#5D87FF" />
+        <NextTopLoader color="red" />
         <CustomizerContextProvider>
           <MyApp>{children}</MyApp>
         </CustomizerContextProvider>

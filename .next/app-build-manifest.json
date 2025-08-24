@@ -27,35 +27,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(DashboardLayout)/loading.js"
     ],
-    "/(DashboardLayout)/page": [
+    "/(DashboardLayout)/hotels/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/page.js"
-    ],
-    "/(DashboardLayout)/amadeus-booking/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/amadeus-booking/page.js"
+      "static/chunks/app/(DashboardLayout)/hotels/page.js"
     ],
     "/_not-found/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/_not-found/page.js"
-    ],
-    "/(DashboardLayout)/tenants/loading": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/tenants/loading.js"
-    ],
-    "/(DashboardLayout)/tenants/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/tenants/page.js"
-    ],
-    "/(DashboardLayout)/users/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(DashboardLayout)/users/page.js"
     ]
   }
 }
