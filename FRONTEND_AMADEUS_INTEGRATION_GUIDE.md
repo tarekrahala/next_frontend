@@ -1,3 +1,4 @@
+
 # 🚀 **AMADEUS BOOKING MANAGEMENT - FRONTEND INTEGRATION GUIDE**
 
 ## 📋 **Table of Contents**

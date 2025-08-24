@@ -1,4 +1,11 @@
 {
   "/_not-found/page": "app/_not-found/page.js",
+<<<<<<< HEAD
   "/(DashboardLayout)/hotels/page": "app/(DashboardLayout)/hotels/page.js"
+=======
+  "/(DashboardLayout)/amadeus-booking/page": "app/(DashboardLayout)/amadeus-booking/page.js",
+  "/(DashboardLayout)/tenants/page": "app/(DashboardLayout)/tenants/page.js",
+  "/(DashboardLayout)/users/page": "app/(DashboardLayout)/users/page.js",
+  "/(DashboardLayout)/page": "app/(DashboardLayout)/page.js"
+>>>>>>> 82854d46a4a9c2c2329714eb937e635f0544193b
 }
